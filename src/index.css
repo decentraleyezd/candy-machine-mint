@@ -5,8 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #303030;
+  background-color: #5CC5E5;
   color: #FFFFFF;
+}
+
+.a,
+a
+{
+  font-size: 6rem;
+  color: #030370;
+  font-family: 'Ubuntu';
+  position: absolute;
+  top: -10px; left: 150px;
 }
 
 code {
